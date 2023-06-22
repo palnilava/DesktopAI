@@ -1,0 +1,15 @@
+ Prompt -using AI write an application to resign from a job
+
+
+
+Dear [Employer Name],
+
+I am writing to formally submit my resignation from my role as [your role] at [company name]. My last day will be [date], as this gives two weeks’ notice.
+
+I have enjoyed my time at [company name], and I would like to thank you for the opportunities and support you have provided me with over the past [time spent].
+
+I am grateful for the professional connections I have made and the skills I have learned during my time here. If I can be of any assistance during the transition, please do not hesitate to contact me.
+
+Sincerely,
+
+[Your name]

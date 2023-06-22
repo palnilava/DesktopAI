@@ -1,0 +1,5 @@
+ Prompt -using AI convert 234 into binary
+
+
+
+11101010

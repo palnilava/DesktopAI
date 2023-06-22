@@ -1,0 +1,5 @@
+ Prompt -using AI write the definition of
+
+ AI
+
+Artificial Intelligence (AI) is a branch of computer science that seeks to develop machines that can simulate human intelligence. It involves the use of algorithms to process large amounts of data, identify patterns and make decisions. AI focuses on automation, perception, understanding, prediction, decision making, and learning. AI has become an integral part of many industries, including healthcare, finance, marketing, and manufacturing.
