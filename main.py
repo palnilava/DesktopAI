@@ -5,9 +5,10 @@ import random
 import win32com.client
 import datetime
 import openai
-from config import apikey
+#from config import apikey
 
 chatstr=""
+apikey = os.getenv("OPENAI_API_KEY")
 def chat(query,chatstr):
     print(chatstr)
     openai.api_key = apikey
